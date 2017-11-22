@@ -1,4 +1,6 @@
 # test
 
-G is God
+G is God.
+
+I love G.
 テスト
